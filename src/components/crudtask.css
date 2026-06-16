@@ -11,7 +11,7 @@ h1 {
     text-align: center;
 }
 
-/* INPUT RESPONSIVE */
+
 input {
     margin: 10px;
     padding: 8px;
@@ -19,20 +19,20 @@ input {
     max-width: 250px;
 }
 
-/* TABLE STYLING */
+
 table {
     width: 100%;
     border-collapse: collapse;
 }
 
-/* CELL STYLING */
+
 tr, td, th {
     border: 1px solid;
     padding: 15px;
     text-align: center;
 }
 
-/* BUTTONS */
+
 .Update {
     background-color: rgb(3, 208, 201);
     border-radius: 3px;
@@ -51,14 +51,14 @@ tr, td, th {
     cursor: pointer;
 }
 
-/* BUTTON GROUP */
+
 .btn {
     display: flex;
     gap: 15px;
     justify-content: center;
 }
 
-/* 📱 MOBILE RESPONSIVE */
+
 @media (max-width: 768px) {
 
     form {
